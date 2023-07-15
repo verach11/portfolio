@@ -18,8 +18,5 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Проекты по ссылке https://qa-bug-report777.atlassian.net/l/cp/7afurUBJ
 
-логин: 777verach1@gmail.com.
-пароль: Kjvj2415
-
 Контактная информация
 Email: 777verach1@gmail.com
