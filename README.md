@@ -9,7 +9,9 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 Проекты
 Проект 1: тест веб-приложения для учителей от Skyeng
+
 Проект 2: тест кабинета учителя в приложении Skyeng
+
 Проекты по ссылке https://qa-bug-report777.atlassian.net/l/cp/7afurUBJ
 
 логин: 777verach1@gmail.com.
